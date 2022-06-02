@@ -1,1 +1,1 @@
-function (cat) {  }
+function cat() {  }
